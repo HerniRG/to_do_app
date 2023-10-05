@@ -1,16 +1,28 @@
-# to_do_app
+# Aplicación de Lista de Tareas (TODO) en Flutter
 
-A new Flutter project.
+Este proyecto es una aplicación de ejemplo que muestra una interfaz de usuario para gestionar una lista de tareas pendientes en Flutter. La aplicación permite a los usuarios añadir, editar, eliminar elementos de la lista y los cambios se guardan en el dispositivo móvil.
 
-## Getting Started
+## Capturas de Pantalla
 
-This project is a starting point for a Flutter application.
+![Agregar Tarea](https://live.staticflickr.com/65535/53236700039_dbffed6f8b_o.png)
+![Editar Tarea](https://live.staticflickr.com/65535/53236823325_1313363ba1_o.png)
+![Tarea Realizada](https://live.staticflickr.com/65535/53236630403_e14ed71bca_o.png)
+![Tarea Eliminada](https://live.staticflickr.com/65535/53236700034_975a225172_o.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Características
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Interfaz de usuario intuitiva y sencilla para la gestión de tareas.
+- Funcionalidad completa para añadir, editar y eliminar tareas.
+- Los datos se almacenan localmente en el dispositivo móvil.
+- Diseño de la aplicación implementado en Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Uso
+
+Este repositorio se centra en la interfaz de usuario y la funcionalidad de gestión de tareas de la aplicación de lista de tareas en Flutter. La lógica de programación para estas acciones ya está implementada y los datos se mantienen localmente en el dispositivo.
+
+## Contacto
+
+- Hernán Rodríguez
+- Correo electrónico: hernanrg85@gmail.com
+
+Gracias por visitar mi repositorio. Este proyecto demuestra mis habilidades en el diseño de aplicaciones móviles y la programación de funcionalidades completas de gestión de tareas. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
